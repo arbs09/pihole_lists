@@ -1,6 +1,7 @@
 # Title: IP-Logger Blocklist
 
 # grabify.link
+grapify.org
 grabify.link
 location.cyou
 mymap.icu
@@ -39,3 +40,23 @@ shrekis.life
 screenshot.best
 gamingfun.me
 stopify.co
+
+# iplogger.org
+iplogger.org
+iplogger.com
+mapper.info
+iplogger.ru
+iplogger.co
+2no.co
+yip.su
+iplogger.info
+iplis.ru
+ezstat.ru
+iplog.co
+iplogger.cn
+wl.gl
+ed.tc
+bc.ax
+
+# net.freetext.live
+net.freetext.live
