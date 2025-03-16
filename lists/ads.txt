@@ -1,0 +1,12 @@
+# Title: Ad Blocklist
+
+# Games
+adserver.unityads.unity3d.com
+auction.unityads.unity3d.com
+
+# apple
+advertising.apple.com
+iadsdk.apple.com
+
+# Pinterest
+ads.pinterest.com
