@@ -1,8 +1,7 @@
 # Title: Ad Blocklist
 
 # Games
-adserver.unityads.unity3d.com
-auction.unityads.unity3d.com
+unityads.unity3d.com
 
 # apple
 advertising.apple.com

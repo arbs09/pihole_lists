@@ -1,0 +1,40 @@
+# Title: Tracking Blocklist
+
+# Google
+googleanalytics.com
+analytics.google.com
+googletagmanager.com
+google-analytics.com
+app-measurement.com
+pagead2.googlesyndication.com
+adservice.google.com
+afs.googlesyndication.com
+doubleclick.net
+
+# brave
+collector.wdp.brave.com
+variations.brave.com
+
+# facebook
+graph.facebook.com
+pixel.facebook.com
+an.facebook.com
+
+# apple
+books-analytics-events.apple.com
+weather-analytics-events.apple.com
+notes-analytics-events.apple.com
+api-adservices.apple.com
+feedbackws.fe.apple-dns.net
+iadsdk.apple.com
+metrics.icloud.com
+acfeedbackws.icloud.com
+feedbackws.icloud.com
+metrics.mzstatic.com
+
+# FreshWorks
+freshmarketer.com
+
+# Stats WP Plugin
+stats.wp.com
+
