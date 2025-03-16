@@ -1,0 +1,17 @@
+# Title: Alexa Tracker Blocklist
+
+msh.amazon.ca
+msh.amazon.cn
+msh.amazon.co.jp
+msh.amazon.com
+msh.amazon.com.br
+msh.amazon.com.mx
+msh.amazon.co.uk
+msh.amazon.de
+msh.amazon.es
+msh.amazon.fr
+msh.amazon.in
+msh.amazon.it
+minerva.devices.a2z.com
+d3p8zr0ffa9t17.cloudfront.net
+secure-eu.imrworldwide.com
