@@ -1,0 +1,4 @@
+https://raw.githubusercontent.com/arbs09/pihole_lists/main/lists/ads.txt
+https://raw.githubusercontent.com/arbs09/pihole_lists/main/lists/alexa.txt
+https://raw.githubusercontent.com/arbs09/pihole_lists/main/lists/ip_logger.txt
+https://raw.githubusercontent.com/arbs09/pihole_lists/main/lists/tracking.txt
