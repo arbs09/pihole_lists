@@ -1,0 +1,5 @@
+# Title: Regex Blocklist
+
+^wpad\. # block wpad
+\.zip$ # block .zip
+watson\..*\.microsoft\.com # block windows telementry
