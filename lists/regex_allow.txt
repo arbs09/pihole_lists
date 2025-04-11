@@ -1,0 +1,3 @@
+# Title: Regex Allowlist
+
+^.*\.dns\.nextdns\.io$ # allow nextdns

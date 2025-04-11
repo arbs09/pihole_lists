@@ -1,0 +1,3 @@
+# Title: Allowlist
+
+public-pool.io # allow nerdminer pool
