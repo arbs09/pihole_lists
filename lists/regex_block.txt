@@ -3,3 +3,4 @@
 ^wpad\. # block wpad
 \.zip$ # block .zip
 watson\..*\.microsoft\.com # block windows telementry
+/(?:[a-zA-Z0-9-]+\.)?hbbtv(?:\.[a-zA-Z0-9-]+)+\.[a-zA-Z]{2,}/gm # block hbbtv (smart tv tracking)
